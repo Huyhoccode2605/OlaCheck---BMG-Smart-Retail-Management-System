@@ -9,7 +9,7 @@ OlaCheck is an Information Systems Design project developed for a real-world cli
 
 **Client:** BMG Trading & Logisitics JSC
 
-**Project Description**: Link(https://docs.google.com/document/d/1Cm-UiYrdAptxiyE7QoKt__BLGuIvVbBN/edit)
+**Project Description**: [Link](https://docs.google.com/document/d/1Cm-UiYrdAptxiyE7QoKt__BLGuIvVbBN/edit)
  
 ## 👤 My Role: Project Manager
 As Project Manager, I led the team throughout the full project lifecycle, coordinating across Business Analysis, Backend, Frontend, Testing, and Documentation roles.
